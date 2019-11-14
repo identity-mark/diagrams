@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-11T16:34:24.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="A0WFxmH-2N1fjAF4CqtW" version="12.2.3" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-14T11:58:22.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="Cn1lDZiW3yGnV4zeADXR" version="12.2.3" type="github" pages="4">
   <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
-    <mxGraphModel dx="1970" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -151,7 +151,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="n3km2oWGpMRYiT3DSOKO" name="Page-2">
-    <mxGraphModel dx="1422" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="VbwPId7YwTwKUUCDy0Y9-0"/>
         <mxCell id="VbwPId7YwTwKUUCDy0Y9-1" parent="VbwPId7YwTwKUUCDy0Y9-0"/>
@@ -224,8 +224,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="qdRoRbFh1dIV0DN_phKQ" name="Page-3">
-    <mxGraphModel dx="1689" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="qdRoRbFh1dIV0DN_phKQ" name="Business Architecture">
+    <mxGraphModel dx="2031" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="2WbLnz13VIGS7mHN6lZm-0"/>
         <mxCell id="2WbLnz13VIGS7mHN6lZm-1" parent="2WbLnz13VIGS7mHN6lZm-0"/>
@@ -250,13 +250,16 @@
         <mxCell id="BoIPkWmvHt83xHEc8Gby-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2WbLnz13VIGS7mHN6lZm-1" source="zZvPMjRC7SIyRexWA7pL-2" target="BoIPkWmvHt83xHEc8Gby-9">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="zZvPMjRC7SIyRexWA7pL-2" value="Parexel end user" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" vertex="1" parent="2WbLnz13VIGS7mHN6lZm-1">
-          <mxGeometry x="30" y="482" width="150" height="75" as="geometry"/>
-        </mxCell>
-        <mxCell id="BoIPkWmvHt83xHEc8Gby-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2WbLnz13VIGS7mHN6lZm-1" source="zZvPMjRC7SIyRexWA7pL-3" target="BoIPkWmvHt83xHEc8Gby-17">
+        <mxCell id="BoIPkWmvHt83xHEc8Gby-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2WbLnz13VIGS7mHN6lZm-1" source="zZvPMjRC7SIyRexWA7pL-2" target="BoIPkWmvHt83xHEc8Gby-32">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="zZvPMjRC7SIyRexWA7pL-3" value="Parexel support" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" vertex="1" parent="2WbLnz13VIGS7mHN6lZm-1">
+        <mxCell id="zZvPMjRC7SIyRexWA7pL-2" value="Parexel&lt;br&gt;end user" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" vertex="1" parent="2WbLnz13VIGS7mHN6lZm-1">
+          <mxGeometry x="30" y="482" width="150" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="BoIPkWmvHt83xHEc8Gby-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2WbLnz13VIGS7mHN6lZm-1" source="zZvPMjRC7SIyRexWA7pL-3" target="jqw6pK_EsgJJOOHi4d5Q-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="zZvPMjRC7SIyRexWA7pL-3" value="Parexel&lt;br&gt;support" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" vertex="1" parent="2WbLnz13VIGS7mHN6lZm-1">
           <mxGeometry x="30" y="670" width="150" height="75" as="geometry"/>
         </mxCell>
         <mxCell id="BoIPkWmvHt83xHEc8Gby-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2WbLnz13VIGS7mHN6lZm-1" source="zZvPMjRC7SIyRexWA7pL-4" target="BoIPkWmvHt83xHEc8Gby-1">
@@ -332,7 +335,7 @@
           <mxGeometry x="650" y="300" width="150" height="75" as="geometry"/>
         </mxCell>
         <mxCell id="BoIPkWmvHt83xHEc8Gby-17" value="Privileged Access Management" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;" vertex="1" parent="2WbLnz13VIGS7mHN6lZm-1">
-          <mxGeometry x="290" y="670" width="150" height="75" as="geometry"/>
+          <mxGeometry x="480" y="670" width="150" height="75" as="geometry"/>
         </mxCell>
         <mxCell id="BoIPkWmvHt83xHEc8Gby-24" value="Customer Guidance&lt;br&gt;standards and patterns" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;" vertex="1" parent="2WbLnz13VIGS7mHN6lZm-1">
           <mxGeometry x="525" y="800" width="150" height="75" as="geometry"/>
@@ -351,6 +354,65 @@
         </mxCell>
         <mxCell id="BoIPkWmvHt83xHEc8Gby-30" value="Parexel Support team" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=role;archiType=square;comic=1;" vertex="1" parent="2WbLnz13VIGS7mHN6lZm-1">
           <mxGeometry x="500" y="482" width="150" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="BoIPkWmvHt83xHEc8Gby-32" value="User Authenticated&lt;br&gt;Is this business event?" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;" vertex="1" parent="2WbLnz13VIGS7mHN6lZm-1">
+          <mxGeometry x="290" y="576" width="150" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="jqw6pK_EsgJJOOHi4d5Q-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=31.499999999999996;entryDy=31.499999999999996;entryPerimeter=0;" edge="1" parent="2WbLnz13VIGS7mHN6lZm-1" source="jqw6pK_EsgJJOOHi4d5Q-0" target="jqw6pK_EsgJJOOHi4d5Q-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="jqw6pK_EsgJJOOHi4d5Q-0" value="Application User" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.archimate3.actor;comic=1;" vertex="1" parent="2WbLnz13VIGS7mHN6lZm-1">
+          <mxGeometry x="70" y="1120" width="50" height="95" as="geometry"/>
+        </mxCell>
+        <mxCell id="jqw6pK_EsgJJOOHi4d5Q-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2WbLnz13VIGS7mHN6lZm-1" source="jqw6pK_EsgJJOOHi4d5Q-1" target="BoIPkWmvHt83xHEc8Gby-17">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="jqw6pK_EsgJJOOHi4d5Q-1" value="Support User" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=role;archiType=square;comic=1;" vertex="1" parent="2WbLnz13VIGS7mHN6lZm-1">
+          <mxGeometry x="290" y="670" width="150" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="jqw6pK_EsgJJOOHi4d5Q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2WbLnz13VIGS7mHN6lZm-1" source="jqw6pK_EsgJJOOHi4d5Q-3" target="jqw6pK_EsgJJOOHi4d5Q-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="jqw6pK_EsgJJOOHi4d5Q-3" value="Access Parexel&lt;br&gt;Services" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.event;comic=1;" vertex="1" parent="2WbLnz13VIGS7mHN6lZm-1">
+          <mxGeometry x="300" y="1136" width="150" height="63" as="geometry"/>
+        </mxCell>
+        <mxCell id="jqw6pK_EsgJJOOHi4d5Q-5" value="Authenticate user" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;comic=1;" vertex="1" parent="2WbLnz13VIGS7mHN6lZm-1">
+          <mxGeometry x="585" y="1136" width="150" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZxhzauB60mHvr-tTXVz7-0" value="Development Team&lt;br&gt;&amp;nbsp;on-Boarding" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;" vertex="1" parent="2WbLnz13VIGS7mHN6lZm-1">
+          <mxGeometry x="290" y="895" width="150" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZxhzauB60mHvr-tTXVz7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2WbLnz13VIGS7mHN6lZm-1" source="ZxhzauB60mHvr-tTXVz7-1" target="ZxhzauB60mHvr-tTXVz7-0">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZxhzauB60mHvr-tTXVz7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2WbLnz13VIGS7mHN6lZm-1" source="ZxhzauB60mHvr-tTXVz7-1" target="ZxhzauB60mHvr-tTXVz7-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZxhzauB60mHvr-tTXVz7-1" value="Parexel&lt;br&gt;Development team" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" vertex="1" parent="2WbLnz13VIGS7mHN6lZm-1">
+          <mxGeometry x="30" y="895" width="150" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZxhzauB60mHvr-tTXVz7-2" value="Development new access requests" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;" vertex="1" parent="2WbLnz13VIGS7mHN6lZm-1">
+          <mxGeometry x="290" y="990" width="150" height="75" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xG0aZBbCKBfZezsNlzG2" name="Application-architecture">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="7wGMAS5hYCVpe6CcnB-i-0"/>
+        <mxCell id="7wGMAS5hYCVpe6CcnB-i-1" parent="7wGMAS5hYCVpe6CcnB-i-0"/>
+        <mxCell id="7wGMAS5hYCVpe6CcnB-i-2" value="Application Registration" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;comic=1;" vertex="1" parent="7wGMAS5hYCVpe6CcnB-i-1">
+          <mxGeometry x="330" y="230" width="150" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="7wGMAS5hYCVpe6CcnB-i-3" value="Customer Registration" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;comic=1;" vertex="1" parent="7wGMAS5hYCVpe6CcnB-i-1">
+          <mxGeometry x="330" y="350" width="150" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="H-eFvXZpFNpSkIfGzSu3-0" value="Customer Registration" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;comic=1;" vertex="1" parent="7wGMAS5hYCVpe6CcnB-i-1">
+          <mxGeometry x="330" y="460" width="150" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="6H-T6UUNqyEEc-Umkyla-1" value="Privileged Access" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;comic=1;" vertex="1" parent="7wGMAS5hYCVpe6CcnB-i-1">
+          <mxGeometry x="330" y="580" width="150" height="75" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
